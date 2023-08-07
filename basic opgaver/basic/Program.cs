@@ -4,7 +4,7 @@ using System.ComponentModel.Design;
 using System.Reflection;
 using System.Reflection.Metadata;
 using System.Reflection.Metadata.Ecma335;
-//hej
+//hej med dig
 namespace basic
 {
     internal class Program
