@@ -23,6 +23,14 @@ namespace Basic_2
             Console.WriteLine(IfGreaterThanThirdOne(new int[] { -5, -8, 50 }));
             Console.WriteLine(IfNumberIsEven(721));
             Console.WriteLine(IfNumberIsEven(1248));
+            Console.WriteLine(PositiveNegativeOrZero(5.24));
+            Console.WriteLine(PositiveNegativeOrZero(0.0));
+            Console.WriteLine(PositiveNegativeOrZero(-994.53));
+            Console.WriteLine(IfSortedAscending(new int[] { 3, 7, 10}));
+            Console.WriteLine(IfSortedAscending(new int[] { 74, 62, 99 }));
+            Console.WriteLine(IfYearIsLeap(2016));
+            Console.WriteLine(IfYearIsLeap(2018));
+
             //Absolute value
             //Given an integer, write a method that returns its absolute value.
             static int AbsoluteValute(int number1)
@@ -87,11 +95,42 @@ namespace Basic_2
             }
             //If sorted ascending
             //Given an array of three integers, write a method that checks if they are sorted in ascending order.
-            static bool IfSortedAscending(int[] array)
-            {                                                            
-
+            static bool IfSortedAscending(int[] myNumbers)
+            {
+                for (int i = 1; i < myNumbers.Length; i++)
+                {
+                    if (myNumbers[i - 1] > myNumbers[i])
+                    {
+                        return false;
+                    }
+                }
+                return true;
             }
+            //Positive, negative or zero
+            //Given a number, write a method that checks if it is positive, negative or zero.
+            static string PositiveNegativeOrZero(double number)
+            {
+                if (number > 0)
+                {
+                    return "positiv";
+                }
+                else if (number == 0)
+                {
+                    return "zero";
+                }
+                else return "negativ";
+            }
+            //If year is leap
+            //Given a year as integer, write a method that checks if year is leap.}
 
+            static bool IfYearIsLeap(int number)
+            {
+                if ((number % 400 == 0) || (number % 4 == 0 && number % 100 != 0))
+                {
+                    return true;
+                }
+                else return false;
+            }
         }
     }
 }
