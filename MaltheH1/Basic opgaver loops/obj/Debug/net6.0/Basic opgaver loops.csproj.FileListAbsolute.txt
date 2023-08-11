@@ -1,0 +1,15 @@
+C:\Users\HFGF\source\repos\malthe991\HF1\Basic opgaver loops\Basic opgaver loops\bin\Debug\net6.0\Basic opgaver loops.exe
+C:\Users\HFGF\source\repos\malthe991\HF1\Basic opgaver loops\Basic opgaver loops\bin\Debug\net6.0\Basic opgaver loops.deps.json
+C:\Users\HFGF\source\repos\malthe991\HF1\Basic opgaver loops\Basic opgaver loops\bin\Debug\net6.0\Basic opgaver loops.runtimeconfig.json
+C:\Users\HFGF\source\repos\malthe991\HF1\Basic opgaver loops\Basic opgaver loops\bin\Debug\net6.0\Basic opgaver loops.dll
+C:\Users\HFGF\source\repos\malthe991\HF1\Basic opgaver loops\Basic opgaver loops\bin\Debug\net6.0\Basic opgaver loops.pdb
+C:\Users\HFGF\source\repos\malthe991\HF1\Basic opgaver loops\Basic opgaver loops\obj\Debug\net6.0\Basic opgaver loops.csproj.AssemblyReference.cache
+C:\Users\HFGF\source\repos\malthe991\HF1\Basic opgaver loops\Basic opgaver loops\obj\Debug\net6.0\Basic opgaver loops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HFGF\source\repos\malthe991\HF1\Basic opgaver loops\Basic opgaver loops\obj\Debug\net6.0\Basic opgaver loops.AssemblyInfoInputs.cache
+C:\Users\HFGF\source\repos\malthe991\HF1\Basic opgaver loops\Basic opgaver loops\obj\Debug\net6.0\Basic opgaver loops.AssemblyInfo.cs
+C:\Users\HFGF\source\repos\malthe991\HF1\Basic opgaver loops\Basic opgaver loops\obj\Debug\net6.0\Basic opgaver loops.csproj.CoreCompileInputs.cache
+C:\Users\HFGF\source\repos\malthe991\HF1\Basic opgaver loops\Basic opgaver loops\obj\Debug\net6.0\Basic opgaver loops.dll
+C:\Users\HFGF\source\repos\malthe991\HF1\Basic opgaver loops\Basic opgaver loops\obj\Debug\net6.0\refint\Basic opgaver loops.dll
+C:\Users\HFGF\source\repos\malthe991\HF1\Basic opgaver loops\Basic opgaver loops\obj\Debug\net6.0\Basic opgaver loops.pdb
+C:\Users\HFGF\source\repos\malthe991\HF1\Basic opgaver loops\Basic opgaver loops\obj\Debug\net6.0\Basic opgaver loops.genruntimeconfig.cache
+C:\Users\HFGF\source\repos\malthe991\HF1\Basic opgaver loops\Basic opgaver loops\obj\Debug\net6.0\ref\Basic opgaver loops.dll

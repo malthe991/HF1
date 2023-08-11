@@ -1,12 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\basic opgaver",
-    "\\Basic opgaver 2",
-    "\\Basic opgaver 2\\Basic 2",
     "\\Basic opgaver 3",
-    "\\basic opgaver\\basic"
+    "\\Basic opgaver loops",
+    "\\Basic opgaver loops\\Basic opgaver loops"
   ],
-  "SelectedNode": "\\basic opgaver\\basic\\Program.cs",
+  "SelectedNode": "\\Basic opgaver loops\\Basic opgaver loops\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
