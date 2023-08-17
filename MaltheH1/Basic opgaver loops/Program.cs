@@ -1,5 +1,7 @@
 ﻿using System;
+using System.Collections.Generic;
 using System.ComponentModel;
+using System.Text;
 using System.Threading.Channels;
 
 namespace Loops
@@ -131,7 +133,45 @@ namespace Loops
             string output = value.Substring(start, slut - start);
             return output;
         }
+        //Full sequence of letters M
+        //Given a string of two letters, where first one occurs before the second in the alphabet, write a method that returns full sequence of letters starting from first and ending at the second one.
 
+
+
+
+
+
+
+
+
+
+        //Sum and average
+        //Given two integers n and m(n <= m), write a method that returns sum of all integers and average from range[n, m].
+
+
+
+
+
+
+
+
+
+
+
+        //Draw triangle
+        //Write a method that draws triangle shape like below.
+
+
+
+
+
+
+
+
+
+        //To the power of
+        //Given two integers, write a method that returns first number raised to the power of second one.
     }
+
 
 }   

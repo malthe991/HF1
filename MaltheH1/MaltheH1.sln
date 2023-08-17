@@ -9,7 +9,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Conditional Statements", "B
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Loops", "Basic opgaver loops\Loops.csproj", "{199A1391-A9B6-4D74-9EA9-9BB131DB903E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TerningSpil", "TerningSpil\TerningSpil.csproj", "{D30823F0-35A7-4BF3-93B5-FA5E675D582C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TerningSpil", "TerningSpil\TerningSpil.csproj", "{D30823F0-35A7-4BF3-93B5-FA5E675D582C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Strings", "Strings\Strings.csproj", "{462294E7-31BE-434A-9076-D7AE824158F7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "YatzySpil", "Yatzy spil\YatzySpil.csproj", "{50607A10-870D-4FDE-982D-E1C14AD5E37D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +37,14 @@ Global
 		{D30823F0-35A7-4BF3-93B5-FA5E675D582C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D30823F0-35A7-4BF3-93B5-FA5E675D582C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D30823F0-35A7-4BF3-93B5-FA5E675D582C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{462294E7-31BE-434A-9076-D7AE824158F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{462294E7-31BE-434A-9076-D7AE824158F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{462294E7-31BE-434A-9076-D7AE824158F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{462294E7-31BE-434A-9076-D7AE824158F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50607A10-870D-4FDE-982D-E1C14AD5E37D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50607A10-870D-4FDE-982D-E1C14AD5E37D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50607A10-870D-4FDE-982D-E1C14AD5E37D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50607A10-870D-4FDE-982D-E1C14AD5E37D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

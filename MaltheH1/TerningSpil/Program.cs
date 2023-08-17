@@ -1,4 +1,5 @@
-﻿namespace TerningSpil
+﻿
+namespace TerningSpil
 {
     internal class Program
     {

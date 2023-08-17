@@ -1,0 +1,15 @@
+C:\Users\HFGF\source\repos\malthe991\HF1\MaltheH1\Yatzy spil\bin\Debug\net6.0\Yatzy spil.exe
+C:\Users\HFGF\source\repos\malthe991\HF1\MaltheH1\Yatzy spil\bin\Debug\net6.0\Yatzy spil.deps.json
+C:\Users\HFGF\source\repos\malthe991\HF1\MaltheH1\Yatzy spil\bin\Debug\net6.0\Yatzy spil.runtimeconfig.json
+C:\Users\HFGF\source\repos\malthe991\HF1\MaltheH1\Yatzy spil\bin\Debug\net6.0\Yatzy spil.dll
+C:\Users\HFGF\source\repos\malthe991\HF1\MaltheH1\Yatzy spil\bin\Debug\net6.0\Yatzy spil.pdb
+C:\Users\HFGF\source\repos\malthe991\HF1\MaltheH1\Yatzy spil\obj\Debug\net6.0\Yatzy spil.csproj.AssemblyReference.cache
+C:\Users\HFGF\source\repos\malthe991\HF1\MaltheH1\Yatzy spil\obj\Debug\net6.0\Yatzy spil.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HFGF\source\repos\malthe991\HF1\MaltheH1\Yatzy spil\obj\Debug\net6.0\Yatzy spil.AssemblyInfoInputs.cache
+C:\Users\HFGF\source\repos\malthe991\HF1\MaltheH1\Yatzy spil\obj\Debug\net6.0\Yatzy spil.AssemblyInfo.cs
+C:\Users\HFGF\source\repos\malthe991\HF1\MaltheH1\Yatzy spil\obj\Debug\net6.0\Yatzy spil.csproj.CoreCompileInputs.cache
+C:\Users\HFGF\source\repos\malthe991\HF1\MaltheH1\Yatzy spil\obj\Debug\net6.0\Yatzy spil.dll
+C:\Users\HFGF\source\repos\malthe991\HF1\MaltheH1\Yatzy spil\obj\Debug\net6.0\refint\Yatzy spil.dll
+C:\Users\HFGF\source\repos\malthe991\HF1\MaltheH1\Yatzy spil\obj\Debug\net6.0\Yatzy spil.pdb
+C:\Users\HFGF\source\repos\malthe991\HF1\MaltheH1\Yatzy spil\obj\Debug\net6.0\Yatzy spil.genruntimeconfig.cache
+C:\Users\HFGF\source\repos\malthe991\HF1\MaltheH1\Yatzy spil\obj\Debug\net6.0\ref\Yatzy spil.dll
